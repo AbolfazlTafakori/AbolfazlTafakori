@@ -8,6 +8,14 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">A motivated individual interested in exploring and contributing to the world of software development. Committed to developing strong coding skills and collaborating within a dynamic team environment.</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -58,13 +66,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbolfazlTafakori/AbolfazlTafakori/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbolfazlTafakori/AbolfazlTafakori/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">A motivated individual interested in exploring and contributing to the world of software development. Committed to developing strong coding skills and collaborating within a dynamic team environment.</p>
 
 ###
