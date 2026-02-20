@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on my Shopping Website<br>🌱 I’m currently learning Asp.NET and C# and another Skill<br>👨‍💻 All of my projects are available at MY GitHub Page<br><br>a computer engineering student who has relatively<br> good experience in this field and in the field of small project management.<br>I am a passionate beginner programmer who has been in this profession <br>since I was 14 years old, I am interested in writing, making videos<br> and constantly learning about technology
-
 <h1 align="center">Hey 👋, I Hope you being ok!</h1>
 
 ###
@@ -55,9 +52,3 @@
 </picture>
 
 ###
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AbolfazlTafakori) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
